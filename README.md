@@ -29,8 +29,7 @@
 |:-----|:-----|:-----|
 | 🏆 **[拾谷 ShiGu](https://github.com/DICKQI/ShiGu)** | 二次元收藏品数字化资产管理后端 | Django + DRF |
 | 🌟 **[拾谷 ShiGu_Vue](https://github.com/DICKQI/ShiGu_Vue)** | 谷子管理 · 云展柜式检索体验 | Vue 3 + TypeScript |
-| 🎓 **AoDuoServer** | 本科毕业设计 | Python |
-| 🏫 **ALGYunXS** | 校园多功能社区平台（二手交易 + 互助 + 兼职） | Django + React + Taro |
+| 🏫 **[ALGYunXS](https://github.com/DICKQI/ALGYunXS)** | 校园多功能社区平台（二手交易 + 互助 + 兼职） | Django + React + Taro |
 | 🐍 **[snake](https://github.com/DICKQI/snake)** | 贪吃蛇小游戏 | Python |
 
 ### 🤝 开源贡献
