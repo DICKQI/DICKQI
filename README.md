@@ -42,12 +42,11 @@
 
 ---
 
-### 📊 GitHub 统计
+### 🔥 GitHub Streak
 
 <div align="center">
 
-![DICKQI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DICKQI&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DICKQI&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DICKQI&theme=radical&hide_border=true)
 
 </div>
 
