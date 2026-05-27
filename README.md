@@ -1,6 +1,11 @@
-## 👋 你好，我是 DICKQI
+<div align="center">
+  
+# 👋 你好，我是 DICKQI
 
-> 🎯 全栈开发者 · 二次元 · AI Agent
+🏗️ **全栈开发 · 二次元收藏家 · AI Agent**  
+📍 珠海 · 横琴
+
+</div>
 
 ---
 
@@ -23,21 +28,30 @@
 
 ---
 
-### 📦 项目精选
+### 🏆 拾谷 PickGoods
+
+> 面向二次元收藏爱好者的数字化资产管理平台 · 全栈独立开发
+
+| 模块 | 仓库 | 技术 |
+|:-----|:-----|:-----|
+| 🔧 **后端 API** | [ShiGu](https://github.com/DICKQI/ShiGu) | Django + DRF · JWT · BGM 导入 |
+| 🎨 **前端界面** | [ShiGu_Vue](https://github.com/DICKQI/ShiGu_Vue) | Vue 3 + TypeScript · 响应式 · 云展柜 |
+
+---
+
+### 📦 其他项目
 
 | 项目 | 描述 | 技术 |
 |:-----|:-----|:-----|
-| 🏆 **[拾谷 ShiGu](https://github.com/DICKQI/ShiGu)** | 二次元收藏品数字化资产管理后端 | Django + DRF |
-| 🌟 **[拾谷 ShiGu_Vue](https://github.com/DICKQI/ShiGu_Vue)** | 谷子管理 · 云展柜式检索体验 | Vue 3 + TypeScript |
-| 🏫 **[ALGYunXS](https://github.com/DICKQI/ALGYunXS)** | 校园多功能社区平台（二手交易 + 互助 + 兼职） | Django + React + Taro |
-| 🐍 **[snake](https://github.com/DICKQI/snake)** | 贪吃蛇小游戏 | Python |
+| 🏫 [ALGYunXS](https://github.com/DICKQI/ALGYunXS) | 校园多功能社区平台 | Django + React + Taro |
+| 🐍 [snake](https://github.com/DICKQI/snake) | 贪吃蛇小游戏 | Python |
 
 ### 🤝 开源贡献
 
-| 项目 | PR | 说明 |
-|:-----|:---|:------|
-| ⚡ **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** | [#4536](https://github.com/agentscope-ai/QwenPaw/pull/4536) | feat: add OpenCode Go into opencode via meta.base_url_options ✅ |
-| ⚡ **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** | [#4660](https://github.com/agentscope-ai/QwenPaw/pull/4660) | feat: slim OpenCode models to 8 intersection models ✅ |
+| 贡献 | PR |
+|:-----|:---|
+| ⚡ **QwenPaw** — feat: add OpenCode Go into opencode | [#4536](https://github.com/agentscope-ai/QwenPaw/pull/4536) ✅ |
+| ⚡ **QwenPaw** — feat: slim OpenCode models | [#4660](https://github.com/agentscope-ai/QwenPaw/pull/4660) ✅ |
 
 ---
 
@@ -50,3 +64,7 @@
 </div>
 
 ---
+
+<div align="center">
+  <sub>✨ 不定期更新 · 欢迎交流</sub>
+</div>
