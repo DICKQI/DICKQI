@@ -37,7 +37,7 @@
 | 项目 | PR | 说明 |
 |:-----|:---|:------|
 | ⚡ **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** | [#4536](https://github.com/agentscope-ai/QwenPaw/pull/4536) | feat: add OpenCode Go into opencode via meta.base_url_options ✅ |
-| ⚡ **QwenPaw** | [#4660](https://github.com/agentscope-ai/QwenPaw/pull/4660) | feat: slim OpenCode models to 8 intersection models ✅ |
+| ⚡ **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** | [#4660](https://github.com/agentscope-ai/QwenPaw/pull/4660) | feat: slim OpenCode models to 8 intersection models ✅ |
 
 ---
 
