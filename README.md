@@ -33,8 +33,8 @@
 
 | 模块 | 仓库 | 技术 |
 |:-----|:-----|:-----|
-| 🔧 **后端 API** | [ShiGu](https://github.com/DICKQI/ShiGu) | Django + DRF · JWT · BGM 导入 |
-| 🎨 **前端界面** | [ShiGu_Vue](https://github.com/DICKQI/ShiGu_Vue) | Vue 3 + TypeScript · 响应式 · 云展柜 |
+| 🔧 **后端 API** | [PickGoods](https://github.com/DICKQI/PickGoods) | Django + DRF · JWT · BGM 导入 |
+| 🎨 **前端界面** | [PickGoods_Frontend](https://github.com/DICKQI/PickGoods_Frontend) | Vue 3 + TypeScript · 响应式 · 云展柜 |
 
 ---
 
