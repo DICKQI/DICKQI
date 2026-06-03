@@ -31,10 +31,9 @@
 
 > 面向二次元收藏爱好者的数字化资产管理平台 · 全栈独立开发
 
-| 模块 | 仓库 | 技术 |
-|:-----|:-----|:-----|
-| 🔧 **后端 API** | [PickGoods](https://github.com/DICKQI/PickGoods) | Django + DRF · JWT · BGM 导入 |
-| 🎨 **前端界面** | [PickGoods_Frontend](https://github.com/DICKQI/PickGoods_Frontend) | Vue 3 + TypeScript · 响应式 · 云展柜 |
+| 仓库 | 技术 |
+|:-----|:-----|
+| 🏪 [PickGoods](https://github.com/DICKQI/PickGoods) | Django + DRF · Vue 3 + TypeScript · JWT · BGM 导入 · 云展柜 |
 
 ---
 
@@ -51,6 +50,7 @@
 |:-----|:---|
 | ⚡ **QwenPaw** — feat: add OpenCode Go into opencode | [#4536](https://github.com/agentscope-ai/QwenPaw/pull/4536) ✅ |
 | ⚡ **QwenPaw** — feat: slim OpenCode models | [#4660](https://github.com/agentscope-ai/QwenPaw/pull/4660) ✅ |
+| ⚡ **QwenPaw** — feat: add Xiaomi MiMo Token Plan provider | [#4722](https://github.com/agentscope-ai/QwenPaw/pull/4722) ✅ |
 
 ---
 
